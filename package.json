@@ -1,0 +1,13 @@
+{
+  "name": "zerox-bot",
+  "version": "1.0.0",
+  "description": "A lightweight WhatsApp bot with only .sticker command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.5.0",
+    "pino": "^8.0.0"
+  }
+}

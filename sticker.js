@@ -1,0 +1,1 @@
+// This file is intentionally left minimal as .sticker logic is in index.js directly.
